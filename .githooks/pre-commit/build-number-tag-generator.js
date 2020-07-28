@@ -4,4 +4,4 @@ const fs = require('fs');
 const uid = require('uuid');
 
 const buildNumber = `${branch.sync()}${uid()}`;
-fs.writeFileSync('./build-number', buildNumber);
+fs.writeFileSync('./.githooks/pre-commit/build-number', buildNumber);
