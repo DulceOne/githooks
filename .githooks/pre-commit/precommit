@@ -1,1 +1,1 @@
-echo "Work pls T_T"
+node build-number-tag-generator.js
