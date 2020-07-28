@@ -1,0 +1,4 @@
+git add ./build-number
+buidNumber=`cat ./buid-number`
+message=`cat $1`
+echo "message: $message \n buid number: $buidNumber"
