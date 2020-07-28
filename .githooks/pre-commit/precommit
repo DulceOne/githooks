@@ -1,4 +1,4 @@
-git add ./buid-number
+git add ./.githooks/pre-commit/build-number
 buidNumber=`cat buid-number`
 
 echo "$buidNumber"
