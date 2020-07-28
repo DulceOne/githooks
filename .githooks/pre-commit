@@ -1,3 +1,1 @@
-node build-number-tag-generator.js
-buildNumber=`cat build-number`
-echo "$buildNumber"
+echo "Work pls T_T"
