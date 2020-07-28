@@ -1,3 +1,4 @@
 git add ./build-number-tag/buid-number
 buidNumber=`cat ./build-number-tag/buid-number`
+
 echo "$buidNumber"
