@@ -1,1 +1,1 @@
-node build-number-tag-generator.js
+#!/usr/bin/env node build-number-tag-generator.js
