@@ -4,5 +4,4 @@ const fs = require('fs');
 
 const dt = new Date().toGMTString();
 const buildNumber = `build number: ${branch.sync()}-branch, ${dt}`;
-console.info("BUILD")
-fs.writeFileSync('./build-number', buildNumber);
+fs.writeFileSync('./build-number-tag/build-number', buildNumber);
