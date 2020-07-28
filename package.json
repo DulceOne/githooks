@@ -18,6 +18,7 @@
   "homepage": "https://github.com/DulceOne/githooks#readme",
   "dependencies": {
     "git-branch": "^2.0.1",
-    "git-hooks": "^1.1.10"
+    "git-hooks": "^1.1.10",
+    "uid": "^1.0.0"
   }
 }
